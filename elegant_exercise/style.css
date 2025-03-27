@@ -1,0 +1,19 @@
+.color_black_bg {
+    background-color: black;
+}
+
+.color_white_bg {
+    background-color: rgb(255, 255, 255);
+}
+
+.color_white_text {
+    color: white;
+}
+
+.color_grey_text {
+    background-color: rgb(69, 69, 69);
+}
+
+.justifyselfcenter{
+    justify-content: center;
+}
